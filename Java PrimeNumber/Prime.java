@@ -48,3 +48,4 @@ private static boolean isPrime(int count1) {
 	return true;
 }
 }
+//這東西也挺有趣的 Vscode的JAVA套件沒法跑，但eclipse卻可以判斷，這是要我別拋棄eclipse嗎
