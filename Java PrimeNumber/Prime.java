@@ -49,3 +49,4 @@ private static boolean isPrime(int count1) {
 }
 }
 //這東西也挺有趣的 Vscode的JAVA套件沒法跑，但eclipse卻可以判斷，這是要我別拋棄eclipse嗎
+//這應該是大學其中的一題回家作業，輸入兩個input，輸出這兩個數字中間所有的質數，並且輸入要有判斷數字是否大於100小於1的能力
